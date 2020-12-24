@@ -1,0 +1,276 @@
+.ElementsTable{
+    margin-left: 180px;
+    margin-top: 90px;
+    border: 2px solid black;
+    margin-right: 190px;
+}
+.Group1{
+    border: 2px solid black;
+    /* font-size: px; */
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: 50px;
+    left: 130px;
+    position: relative;
+    background-color: #f6b3d5;
+    cursor: pointer;
+}
+.Group2{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -274px;
+    left: 183px;
+    position: relative;
+    background-color: #eeb654;
+    cursor: pointer;
+}
+.Group3{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -490px;
+    left: 235px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+
+
+.Group3A{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -490px;
+    left: 235px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+    display: block;
+    float: left;
+
+}
+
+
+.Group3L{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -4390px;
+    left: -30px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+    display: block;
+    float: left;
+}
+
+.Group4{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -706px;
+    left: 287px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+.Group5{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -922px;
+    left: 339px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+.Group6{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -1138px;
+    left: 391px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+.Group7{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -1354px;
+    left: 443px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+.Group8{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -1570px;
+    left: 495px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+.Group9{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -1786px;
+    left: 547px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+.Group10{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -2002px;
+    left: 599px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+.Group11{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -2218px;
+    left: 651px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+.Group12{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -2434px;
+    left: 703px;
+    position: relative;
+    background-color: #e1ea37;
+    cursor: pointer;
+}
+.Group13{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -2758px;
+    left: 755px;
+    position: relative;
+    background-color: #83bfea;
+    cursor: pointer;
+}
+.Group14{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -3082px;
+    left: 807px;
+    position: relative;
+    background-color: #83bfea;
+    cursor: pointer;
+}
+.Group15{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 35px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -3406px;
+    left: 859px;
+    position: relative;
+    background-color: #83bfea;
+    cursor: pointer;
+}
+.Group16{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -3730px;
+    left: 916px;
+    position: relative;
+    background-color: #83bfea;
+    cursor: pointer;
+}
+.Group17{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 35px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -4054px;
+    left: 968px;
+    position: relative;
+    background-color: #34e76a;
+    cursor: pointer;
+}
+.Group18{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 30px;
+    width: 35px;
+    text-align: center;
+    padding: 10px 10px;
+    top: -4432px;
+    left: 1025px;
+    position: relative;
+    background-color: #6785e7;
+    cursor: pointer;
+}
